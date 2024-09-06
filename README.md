@@ -47,4 +47,7 @@ I'm a **passionate software engineer** who loves **front-end development**, hiki
   <a href="https://codepen.io/peterbenoit">
     <img src="https://img.shields.io/badge/-CodePen-000000?logo=codepen&logoColor=white&style=for-the-badge">
   </a>
+  <a href="https://peterbenoit.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-1DA1F2?logo=webpack&logoColor=white&style=for-the-badge">
+  </a>
 </p>
