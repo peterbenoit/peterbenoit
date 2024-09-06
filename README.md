@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Peter Benoit! 👋
 
-<!--
-**peterbenoit/peterbenoit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer who loves front-end development, hiking, video games, and road trips.
 
-Here are some ideas to get you started:
+## 🌟 Skills
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks/Libraries**: React, Vue.js, Svelte
+- **Tools**: VSCode, Chrome Developer Tools, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Project Name](https://github.com/your-username/project-name): A brief description of your project.
+- [Another Project](https://github.com/your-username/another-project): A brief description of another project.
+
+## 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [CodePen](https://codepen.io/your-username)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
