@@ -23,11 +23,11 @@ I'm a **passionate software engineer** who loves **front-end development**, hiki
 ## 🚀 Featured Projects
 
 <div align="center">
-    <a href="https://github.com/peterbenoit/project-name">
-        <img src="https://img.shields.io/static/v1?label=Project&message=Name&color=blue&style=for-the-badge&logo=github">
+    <a href="https://github.com/cdcent/TemplatePackage">
+        <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov Templates&color=blue&style=for-the-badge&logo=github">
     </a>
-    <a href="https://github.com/peterbenoit/another-project">
-        <img src="https://img.shields.io/static/v1?label=Another&message=Project&color=red&style=for-the-badge&logo=github">
+    <a href="https://github.com/cdcent/WCMS">
+        <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov WCMS&color=red&style=for-the-badge&logo=github">
     </a>
 </div>
 
