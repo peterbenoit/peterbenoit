@@ -44,13 +44,6 @@ While my public profile highlights some of my work, the majority of my contribut
     </a>
 </div>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=peterbenoit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterbenoit&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ## 📫 Let's Connect!
 
 <p align="center">
