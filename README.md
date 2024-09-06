@@ -40,7 +40,7 @@ While my public profile highlights some of my work, the majority of my contribut
         <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov Templates&color=blue&style=for-the-badge&logo=github">
     </a>
     <a href="https://github.com/cdcent/WCMS">
-        <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov WCMS&color=red&style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/static/v1?label=Project&message=CDC.gov CMS&color=red&style=for-the-badge&logo=github">
     </a>
 </div>
 
