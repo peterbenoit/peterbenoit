@@ -8,11 +8,11 @@ I'm a passionate software engineer who loves front-end development, hiking, vide
 - **Tools**: VSCode, Chrome Developer Tools, Git, GitHub
 
 ## 🚀 Projects
-- [Project Name](https://github.com/your-username/project-name): A brief description of your project.
-- [Another Project](https://github.com/your-username/another-project): A brief description of another project.
+- [Project Name](https://github.com/peterbenoit/project-name): A brief description of your project.
+- [Another Project](https://github.com/peterbenoit/another-project): A brief description of another project.
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [CodePen](https://codepen.io/your-username)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=peterbenoit&show_icons=true)
