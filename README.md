@@ -9,6 +9,10 @@
 
 I'm a **versatile software engineer** specializing in **front-end development** with a focus on **user experience (UX)**, **responsive design**, and **web accessibility (Section 508 compliance)**. I'm proficient in **JavaScript**, **CSS3**, and a variety of modern web technologies. Passionate about building dynamic, interactive applications, I leverage **best practices** in **UI/UX design** to create seamless and accessible user experiences. When I’m not coding, I enjoy hiking 🥾, gaming 🎮, and hitting the open road 🚗.
 
+## 🔒 Private Contributions
+
+While my public profile highlights some of my work, the majority of my contributions—commits, pull requests, and code reviews—are done in private repositories for the CDC. This includes collaborating on large-scale projects, implementing features, and ensuring code quality through rigorous reviews.
+
 ## 🌟 Tech Stack
 
 ### Languages & Frameworks
