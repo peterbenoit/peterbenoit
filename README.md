@@ -36,7 +36,6 @@ While my public profile highlights some of my work, the majority of my contribut
 ![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?logo=bulma&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-000000?logo=nuxt&logoColor=02dc82&style=for-the-badge)
 
@@ -45,6 +44,7 @@ While my public profile highlights some of my work, the majority of my contribut
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
