@@ -38,6 +38,7 @@ While my public profile highlights some of my work, the majority of my contribut
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Nuxt](https://img.shields.io/badge/-Nuxt-000000?logo=nuxt&logoColor=02dc82&style=for-the-badge)
 
 ### Tools & Platforms
 
