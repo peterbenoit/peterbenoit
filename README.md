@@ -10,7 +10,7 @@ My work powers **CDC.gov** (billions of visits annually), **Coke.com**, **Harl
 -   Gold **w3 Award** winner (Federal Websites)
 -   Deque‑certified accessibility specialist
 -   Creator of the CDC.gov Template Package adopted across 500+ sites
--   
+  
 Off the clock you’ll find me hiking 🥾, gaming 🎮, or chasing quiet back‑roads 🚗.
 
 ## 🏆 Career Highlights
