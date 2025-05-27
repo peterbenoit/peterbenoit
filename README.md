@@ -6,9 +6,9 @@
 
 I’m a senior UI engineer who turns complex design challenges into fast, accessible web experiences.
 My work powers **CDC.gov** (billions of visits annually), **Coke.com**, **Harley‑Davidson.com**, and more.
-• Gold **w3 Award** winner (Federal Websites)
-• Deque‑certified accessibility specialist
-• Creator of the CDC.gov Template Package adopted across 500+ sites
+- Gold **w3 Award** winner (Federal Websites)
+- Deque‑certified accessibility specialist
+- Creator of the CDC.gov Template Package adopted across 500+ sites
 Off the clock you’ll find me hiking 🥾, gaming 🎮, or chasing quiet back‑roads 🚗.
 
 ## 🏆 Career Highlights
