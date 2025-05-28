@@ -59,11 +59,11 @@ While my public profile highlights some of my work, the majority of my contribut
 
 ## 🧭 Explore More
 
-Visit [uiguy.dev](https://uiguy.dev) — a curated showcase of my open source tools, UI component libraries, and creative front-end experiments, all built with performance and accessibility in mind.
+Visit [uiguy.dev](https://www.uiguy.dev) — a curated showcase of my open source tools, UI component libraries, and creative front-end experiments, all built with performance and accessibility in mind.
 
 ## 📫 Connect
 
 -   [LinkedIn](https://www.linkedin.com/in/peterbenoit)
 -   [CodePen](https://codepen.io/peterbenoit)
--   [uiguy.dev](https://uiguy.dev)
--   [peterbenoit.com](https://peterbenoit.com)
+-   [uiguy.dev](https://www.uiguy.dev)
+-   [peterbenoit.com](https://www.peterbenoit.com)
