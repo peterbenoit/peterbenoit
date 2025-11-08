@@ -82,14 +82,18 @@ const techStack = {
 
 **Industry Presence**
 - [LinkedIn Professional Profile](https://www.linkedin.com/in/peterbenoit)
-- [CodePen Creative Experiments](https://codepen.io/peterbenoit)
+- [NPM Packages](https://www.npmjs.com/~peterbenoit)
+- [VSCode Extensions](https://marketplace.visualstudio.com/publishers/peterbenoit)
+- [Google Chrome Extensions](https://chromewebstore.google.com/detail/save-image-as/fakebomgdiffkjpepgcijpdljeedbdko)
 
 </td>
 <td>
 
 **Portfolio Websites**
-- [uiguy.dev](https://www.uiguy.dev) — Technical showcase
-- [peterbenoit.com](https://www.peterbenoit.com) — Professional portfolio
+- [uiguy.dev](https://www.uiguy.dev) — Showcase
+- [peterbenoit.com](https://www.peterbenoit.com) — Portfolio
+- [CodePen Portfolio](https://codepen.io/peterbenoit)
+- [Github Portfolio](https://github.com/peterbenoit)
 
 </td>
 </tr>
