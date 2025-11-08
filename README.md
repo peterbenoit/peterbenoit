@@ -124,7 +124,7 @@ const federalSystemsStack = {
 
 <table>
 <tr>
-<td>
+<td valign="top">
 
 **Industry Presence**
 - [LinkedIn Professional Profile](https://www.linkedin.com/in/peterbenoit)
@@ -133,7 +133,7 @@ const federalSystemsStack = {
 - [Chrome Extensions](https://chromewebstore.google.com/detail/save-image-as/fakebomgdiffkjpepgcijpdljeedbdko)
 
 </td>
-<td>
+<td valign="top">
 
 **Portfolio Websites**
 - [uiguy.dev](https://www.uiguy.dev) — Technical showcase
@@ -142,13 +142,12 @@ const federalSystemsStack = {
 - [Github Profile](https://github.com/peterbenoit) — Source code
 
 </td>
-<td>
+<td valign="top">
 
-**Developer Tools**
+**Portfolio Highlights**
 - [RepoWidget](https://www.repowidget.com) — GitHub showcase widgets
 - [ImageProcessor](https://imgprocessor.vercel.app) — Browser image processing
 - [Route Hub](https://route-hub.com) — Journey planning tool
-- [TailwindCSS Plugin](https://www.npmjs.com/package/tailwindcss-visibility) — Performance utilities
 
 </td>
 </tr>
