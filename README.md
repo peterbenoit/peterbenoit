@@ -127,7 +127,7 @@ const federalSystemsStack = {
 <td valign="top">
 
 **Industry Presence**
-- [LinkedIn Professional Profile](https://www.linkedin.com/in/peterbenoit)
+- [LinkedIn Profile](https://www.linkedin.com/in/peterbenoit)
 - [NPM Packages](https://www.npmjs.com/~peterbenoit)
 - [VSCode Extensions](https://marketplace.visualstudio.com/publishers/peterbenoit)
 - [Chrome Extensions](https://chromewebstore.google.com/detail/save-image-as/fakebomgdiffkjpepgcijpdljeedbdko)
