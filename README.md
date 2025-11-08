@@ -67,13 +67,6 @@ const techStack = {
 
 </div>
 
-## Open Source Contributions
-
-**ResourceLoader.js** — Asynchronous resource loader optimized for performance
-**StorageManager.js** — Enhanced Web Storage API with compression and expiration
-
-*Additional tools and component libraries available at [uiguy.dev](https://www.uiguy.dev)*
-
 ## Professional Network
 
 <table>
@@ -84,16 +77,25 @@ const techStack = {
 - [LinkedIn Professional Profile](https://www.linkedin.com/in/peterbenoit)
 - [NPM Packages](https://www.npmjs.com/~peterbenoit)
 - [VSCode Extensions](https://marketplace.visualstudio.com/publishers/peterbenoit)
-- [Google Chrome Extensions](https://chromewebstore.google.com/detail/save-image-as/fakebomgdiffkjpepgcijpdljeedbdko)
+- [Chrome Extensions](https://chromewebstore.google.com/detail/save-image-as/fakebomgdiffkjpepgcijpdljeedbdko)
 
 </td>
 <td>
 
 **Portfolio Websites**
-- [uiguy.dev](https://www.uiguy.dev) — Showcase
-- [peterbenoit.com](https://www.peterbenoit.com) — Portfolio
-- [CodePen Portfolio](https://codepen.io/peterbenoit)
-- [Github Portfolio](https://github.com/peterbenoit)
+- [uiguy.dev](https://www.uiguy.dev) — Technical showcase
+- [peterbenoit.com](https://www.peterbenoit.com) — Professional portfolio
+- [CodePen Portfolio](https://codepen.io/peterbenoit) — Creative experiments
+- [Github Profile](https://github.com/peterbenoit) — Source code
+
+</td>
+<td>
+
+**Developer Tools**
+- [RepoWidget](https://www.repowidget.com) — GitHub showcase widgets
+- [ImageProcessor](https://imgprocessor.vercel.app) — Browser image processing
+- [Route Hub](https://route-hub.com) — Journey planning tool
+- [TailwindCSS Plugin](https://www.npmjs.com/package/tailwindcss-visibility) — Performance utilities
 
 </td>
 </tr>
