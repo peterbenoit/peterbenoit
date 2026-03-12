@@ -24,6 +24,8 @@ const developer = {
 };
 ```
 
+![Dashboard](dashboard.png)
+
 ## Federal Systems Leadership
 
 **CDC Template Package** → Foundation for nearly 1,000 federal health sites, standardizing UX across critical public health infrastructure
