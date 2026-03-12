@@ -24,7 +24,7 @@ const developer = {
 };
 ```
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png?v2)
 
 ## Federal Systems Leadership
 
