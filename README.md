@@ -1,48 +1,28 @@
-```typescript
-const peterBenoit = {
-	title:      "Front End Developer",
-	agency:     "U.S. Department of Veterans Affairs",
-	contract:   "Peraton · MVP Platform",
-	location:   "Ocala, Florida",
+# Peter Benoit
 
-	experience: "20+ years front-end",
-	federal:    ["CDC", "VA"] /* and counting */,
-	impact:     "9M+ veterans · 330M Americans · ~1,000 govt sites",
-
-	currentStack: ["React", "Next.js", "TypeScript", "USWDS", "VA Design System", "Tailwind"],
-	sidequests:   ["open source", "CSS writing", "trail photography"],
-
-	irl: {
-		camera:  "Lumix FZ80D",
-		trails:  "Ocala National Forest",
-		dog:     "Bowie",
-	},
-} as const;
-```
+UI developer and federal design systems engineer in Florida. I build accessible, high-performance interfaces for federal health infrastructure, and maintain open-source front-end tooling on the side. More at [peterbenoit.com](https://peterbenoit.com).
 
 ---
 
-## What I'm building now
+## Right now
 
-→ **VA MVP Platform** — modernizing veteran-facing digital services at the U.S. Department of Veterans Affairs. React, Next.js, USWDS, Storybook. Serving 9M+ veterans.
+Working on the **VA MVP Platform** at Peraton, modernizing veteran-facing digital services at the U.S. Department of Veterans Affairs. React, Next.js, TypeScript, USWDS, VA Design System, Storybook. 9M+ veterans depend on this infrastructure.
 
-→ **Open source tooling** — [tailwindcss-hue-theme](https://peterbenoit.com/tailwindcss-hue-theme/), [RepoWidget](https://peterbenoit.com/repowidget/), [ResourceLoader.js](https://peterbenoit.com/resourceloader/), and a few other things I built because I needed them.
+Before VA: 16 years at CDC, maintaining the design system and component library that powered every page on CDC.gov, including the COVID response at scale.
 
-→ **Writing about CSS** — particularly the newer stuff that doesn't get enough attention yet.
+I go where the infrastructure needs building.
 
 ---
 
 ## Federal track record
 
-16 years at CDC maintaining the design system and component library that powers every page on CDC.gov. Then OPHDST. Now VA. I go where the infrastructure needs building.
-
-| Metric | Number |
-|--------|--------|
+| | |
+|---|---|
 | Years in federal front-end | 20+ |
 | Federal agencies | CDC, VA |
 | CDC sites on the template system | ~1,000 |
-| Americans reached during COVID (CDC) | 330M |
-| Veterans on the platform I work on now | 9M+ |
+| Americans reached during COVID | 330M |
+| Veterans on the current platform | 9M+ |
 | W³ Awards (2024) | Gold + Silver |
 | Section 508 compliance | always |
 
@@ -50,30 +30,38 @@ const peterBenoit = {
 
 ## Open source
 
+Some of the things I've built because I needed them. All maintained, all documented.
+
 | Project | What it does |
 |---------|-------------|
-| [tailwindcss-hue-theme](https://peterbenoit.com/tailwindcss-hue-theme/) | OKLCH-powered Tailwind plugin — one CSS variable shifts your entire color palette |
+| [tailwindcss-hue-theme](https://peterbenoit.com/tailwindcss-hue-theme/) | OKLCH-powered Tailwind plugin. One CSS variable shifts your entire color palette. |
 | [ResourceLoader.js](https://peterbenoit.com/resourceloader/) | Async script/style loader with dependency management and caching |
 | [StorageManager.js](https://peterbenoit.com/storagemanager/) | Web Storage wrapper with compression, TTL, and namespacing |
-| [RepoWidget](https://peterbenoit.com/repowidget/) | Drop-in GitHub repo cards — no backend, no API key |
+| [RepoWidget](https://peterbenoit.com/repowidget/) | Drop-in GitHub repo cards. No backend, no API key. |
 | [ImageProcessor](https://peterbenoit.com/imageprocessor/) | Browser-based image resizing, cropping, and format conversion |
 | [EmbedManager](https://peterbenoit.com/embedmanager/) | Lazy-loads YouTube, CodePen, and Maps embeds with consent fallbacks |
 | [tailwindcss-visibility](https://peterbenoit.com/tailwindcss-visibility/) | Content-visibility utilities for Tailwind |
-| [reQuery](https://peterbenoit.com/requery/) | Reactive state and DOM binding for jQuery — no build step |
+| [reQuery](https://peterbenoit.com/requery/) | Reactive state and DOM binding. No build step. |
 
 ---
 
 ## Writing
 
-Mostly CSS features that aren't getting enough attention yet. Occasionally a trail report.
+CSS features that deserve more attention, and occasional notes from the trail.
 
-- [color-mix() in CSS](https://peterbenoit.com/blog/color-mix/) — practical uses beyond just tinting
+- [color-mix() in CSS](https://peterbenoit.com/blog/color-mix/) — practical uses beyond tinting
 - [@starting-style](https://peterbenoit.com/blog/css-starting-style/) — entry animations without JavaScript
 - [Scroll-driven animations](https://peterbenoit.com/blog/scroll-driven-animations/) — what's actually useful today
+- [The inert attribute](https://peterbenoit.com/blog/inert-attribute/) — the most underused accessibility primitive in HTML
 - [Marshall Swamp Trail](https://peterbenoit.com/blog/marshall-swamp/) — Ocala flatwoods, spring morning
+- [peterbenoit.com/blog/](https://peterbenoit.com/blog/) — More of my writing
 
 ---
 
-## Find me
+## Outside of work
 
-[peterbenoit.com](https://peterbenoit.com) · [LinkedIn](https://www.linkedin.com/in/peterbenoit) · [CodePen](https://codepen.io/peterbenoit) · [npm](https://www.npmjs.com/~peterbenoit) · [vscode](https://marketplace.visualstudio.com/publishers/peterbenoit)
+Hiking trails in the Ocala National Forest with a Lumix FZ80D and my dog Bowie.
+
+---
+
+[peterbenoit.com](https://peterbenoit.com) · [LinkedIn](https://www.linkedin.com/in/peterbenoit) · [CodePen](https://codepen.io/peterbenoit) · [npm](https://www.npmjs.com/~peterbenoit) · [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/peterbenoit)
