@@ -54,7 +54,7 @@ CSS features that deserve more attention, and occasional notes from the trail.
 - [Scroll-driven animations](https://peterbenoit.com/blog/scroll-driven-animations/) — what's actually useful today
 - [The inert attribute](https://peterbenoit.com/blog/inert-attribute/) — the most underused accessibility primitive in HTML
 - [Marshall Swamp Trail](https://peterbenoit.com/blog/marshall-swamp/) — Ocala flatwoods, spring morning
-- [peterbenoit.com/blog/](https://peterbenoit.com/blog/) — More of my writing
+- [peterbenoit.com/blog](https://peterbenoit.com/blog/) — More of my writing
 
 ---
 
